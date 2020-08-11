@@ -11,14 +11,14 @@
 <p>
   استفاده از کتابخانه جاوااسکریپ
   <br>
-  <script src="./jquery-3.2.1.min.js" type="text/javascript"></script>
+  <code><script src="./jquery-3.2.1.min.js" type="text/javascript"></script></code>
   <br>
   <b>https://code.jquery.com/jquery/</b>
 </p>
 <p>
   برای نمایش تصویر صرفا باید از تگ زیر استفاده کنید 
  <br>
-  <img  width="32px" id="img0" src="">
+  <code><img  width="32px" id="img0" src=""></code>
   <br>
   در این تگ id مهم می باشد که باید همین نام باشد یا در صورت تغییر باید در تابع تغییر دهید
 </p>
