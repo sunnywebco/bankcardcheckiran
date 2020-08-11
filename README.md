@@ -3,8 +3,8 @@
 <p><b>Last version  :</b>1.0.0</p>
 <p><b>Last updated :</b> 11/08/2020</p>
 <p><b>Programming language :</b> Javascript</p>
-<p><b>Company name : </b><a target="_black" href="http://sunnyweb.ir">sunnyweb</a></p></h6>
-<h4>Mikrotik</h4>
+<p><b>Company name : </b><a target="_black" href="https://sunnyweb.ir">sunnyweb</a></p></h6>
+<h4>برنامه بررسی شماره کارت بانکی - اصالت سنجی شماره کارت بانکی ایران به همراه تصویر بانک ها</h4>
 <p>
 با استفاده از این کد می توانید با دریافت شماره کارت بانکی کاربر در ورودی برنامه اصالت شماره کارت و همچنین در انتها نیز تصویر لوگو بانک را نمایش دهید . لازم به ذکر است این کد توسط تیم برنامه نویسی سانی وب برای تمام پروژ های بانکی تولید شده استفاده نموده است 
 </p>
