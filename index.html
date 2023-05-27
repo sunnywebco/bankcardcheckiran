@@ -1,7 +1,30 @@
-<script src="./jquery-3.2.1.min.js" type="text/javascript"></script>
-<img  width="32px" id="img0" src="">
-<input type="text"  id="cardnumber" onchange="sunnyweb_check_number();">
-<p id="card_er" style="display: none; color: red;margin: 2% 0 0 0;background: #ffff0029;padding-right: 5%;">شماره کارت اشتباه می باشد</p>
+<!DOCTYPE html>
+<html lang="fa_IR" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>استعلام شماره کارت</title>
+    <style>
+        @import url('https://v1.fontapi.ir/css/Vazir');
+        html * {
+        font-family: Vazir, sans-serif;
+      }
+    </style>        
+</head>
+<body>
+    <script src="./jquery-3.2.1.min.js" type="text/javascript"></script>
+    <center><p style=" color: blue;margin: 2% 0 0 0;background: #ffff0029;font-size: 16px;">استعلام اصالت شماره کارت بانکی</p></center>
+<center>
+    <img  width="128px" id="img0" src="">
+    <p>
+    شماره کارت را وارد نمائید - بدون خط تیره
+    <p>
+    <input type="text" style="direction: ltr; font-family: Vazir;"  id="cardnumber" onchange="sunnyweb_check_number();">
+    <p>بعد از وارد کردن Enter بزنید    <p>
+
+    <p id="card_er" style="display: none; color: red;margin: 2% 0 0 0;background: #ffff0029;">شماره کارت اشتباه می باشد</p>    
+</center>
 
 <script>
     function sunnyweb_check_number() {
@@ -52,3 +75,6 @@
     }
 </script>
 
+
+</body>
+</html>
